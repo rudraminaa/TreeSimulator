@@ -1,0 +1,51 @@
+# ── Build output ──────────────────────────────────────────────
+build/
+cmake-build-*/
+out/
+
+# ── Qt/CMake generated ───────────────────────────────────────
+*_autogen/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.ninja*
+.ninja_deps
+.ninja_log
+compile_commands.json
+
+# ── Compiled objects & binaries ──────────────────────────────
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# ── Qt specific ──────────────────────────────────────────────
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.pro.user
+*.pro.user.*
+*.qm
+
+# ── IDE & Editor ─────────────────────────────────────────────
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── OS generated ─────────────────────────────────────────────
+*.tmp
+*.log
