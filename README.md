@@ -1,5 +1,7 @@
 # 🌳 Tree Simulator
 
+<img width="1659" height="962" alt="image" src="https://github.com/user-attachments/assets/d6d1dc71-d06a-4b03-bf96-d6477c18bb24" />
+
 An interactive desktop application for visualizing **Binary Search Trees (BST)** and **AVL Trees**, built with **C++17** and **Qt 6**.
 
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue?logo=cplusplus)
